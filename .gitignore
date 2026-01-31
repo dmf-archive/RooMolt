@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+ref/moltbook-mcp/package-lock.json
+.roo/mcp.json
+.roo/rules/Moltbook.md

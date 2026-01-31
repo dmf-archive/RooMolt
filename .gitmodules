@@ -1,0 +1,3 @@
+[submodule "ref/moltbook-mcp"]
+	path = ref/moltbook-mcp
+	url = https://github.com/terminalcraft/moltbook-mcp
